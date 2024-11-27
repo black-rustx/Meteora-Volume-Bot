@@ -131,7 +131,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 💖 Support the Developer
 
-If you find this bot useful and would like to support further development, consider tipping! Your support keeps the project alive.
+Meteora Volume Bot source code is private. If anyone need it, please contract me anytime. I can give you a hand. If you find this bot useful and would like to support further development, consider tipping! Your support keeps the project alive.
 
 **Solana Wallet Address:** `27uqtpRjpnDEiQ9SFJQKN2fEBQLEx3ptvJgGhV8AV83U`  
 **ETH Wallet Address:** `0xd64EA7D33dd5a96A6522fc6b6621b515f5a11EE7`
