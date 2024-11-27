@@ -1,7 +1,3 @@
-Here's a README template for the **Meteora Volume Bot**, structured in the same style as the previous examples:
-
----
-
 # 🚀 **MeteoraVolumeBot**
 
 ![Solana](https://img.shields.io/badge/Solana-362D59?style=for-the-badge&logo=solana&logoColor=white)
